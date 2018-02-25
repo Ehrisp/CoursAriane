@@ -1,0 +1,2 @@
+﻿  Source.c
+c:\users\nicol\source\repos\apptestc\apptestc\source.c(9): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
